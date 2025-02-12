@@ -35,7 +35,11 @@ class Test{
 
         int num=5;
         var1=Convert.ToChar(num);
+// oppoiste fof f"" in python is $"" in csharp
 
+int num1=5,num2=5;
+int result2=0;
+        Console.WriteLine("{0}+{1}={2}",num1,num2,result2); //cant use x,y,z
     }
 }
 
