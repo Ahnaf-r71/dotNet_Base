@@ -12,13 +12,4 @@ C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\obj\Debug\net9.
 C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.pdb
 C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.genruntimeconfig.cache
 C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\obj\Debug\net9.0\ref\FirstConsoleApp.dll
-C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\bin\Debug\net9.0\AdvancedStringBuilder.dll
-C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\bin\Debug\net9.0\JavaScriptEngineSwitcher.Core.dll
-C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\bin\Debug\net9.0\JSPool.dll
-C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\bin\Debug\net9.0\Newtonsoft.Json.dll
-C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\bin\Debug\net9.0\React.Core.dll
-C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\bin\Debug\net9.0\ru-RU\JavaScriptEngineSwitcher.Core.resources.dll
-C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.csproj.AssemblyReference.cache
-C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\obj\Debug\net9.0\FirstCon.484EE96D.Up2Date
+C:\Users\Skytech Solutions\OneDrive\Desktop\DotN\FirstConsoleApp\obj\Debug\net9.0\FirstConsoleApp.sourcelink.json

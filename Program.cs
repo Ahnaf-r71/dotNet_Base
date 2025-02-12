@@ -15,6 +15,8 @@ class Test{
         int intSalary = (int)salary;//to cast
         Console.WriteLine("Salary as integer: "+intSalary);
         string storeString= Convert.ToString(intSalary);
+        long toInt = Convert.ToInt64(salary);// need to store in a type safe int var , incase of ToInt64 need to store in long instead of int);
+        Console.WriteLine(toInt);
         Console.WriteLine("Salary as string: "+storeString);
         string salary2="11"; 
         int store=int.Parse(salary2); //parse to convert from a string
@@ -23,6 +25,17 @@ class Test{
         bool isSuccess=int.TryParse(salary2,out int result);
         Console.Write("\n"+result,isSuccess);
         Console.WriteLine($"True or False is={isSuccess}");
+        const string universityName="IUB";//const must have a value asigned first
+        // universityName="fault";
+        
+        System.Console.WriteLine(universityName);
+        string var2,var3;
+        char var1;
+        Console.ReadLine();
+
+        int num=5;
+        var1=Convert.ToChar(num);
+
     }
 }
 
