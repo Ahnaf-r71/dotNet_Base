@@ -40,6 +40,10 @@ class Test{
 int num1=5,num2=5;
 int result2=0;
         Console.WriteLine("{0}+{1}={2}",num1,num2,result2); //cant use x,y,z
+        double num4=13/9;
+        Console.WriteLine("Num is"+num4.ToString("F3")); //ToString("F3") for printing upto decimal
+        
+
     }
 }
 
